@@ -33,3 +33,4 @@ This project is a functional prototype intended to demonstrate frontend architec
 git clone https://github.com/natalieday/financial-dashboard-application.git
 npm install
 npm run dev
+```
